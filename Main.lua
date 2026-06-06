@@ -406,7 +406,7 @@ local function InitSnowHub()
     tabLayout.HorizontalAlignment = Enum.HorizontalAlignment.Left
     tabLayout.Parent = tabBar
 
-    local tabs = {"MAIN","ADVANCED","KEYBINDS","CONSOLE","CREATOR"}
+    local tabs = {"Main","ADVANCED","KEYBINDS","CONSOLE","CREATOR"}
     local pages = {}
     local currentTab = "MAIN"
 
